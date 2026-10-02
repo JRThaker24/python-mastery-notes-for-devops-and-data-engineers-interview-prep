@@ -45,7 +45,7 @@ def person(name, **data):
     print(name)
     print(data)
 
-person("Jigar", age=28, city="Dwarka", mob=9408009646)
+person("Jigar", age=28, city="Dwarka", mob=1234567890)
 
 # If we want to change the global variabe without affecting the local variabel then we have to us globals() function
 a = 10
