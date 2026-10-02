@@ -1,0 +1,10 @@
+{
+    "redhat.telemetry.enabled": true,
+    "cmake.pinnedCommands": [
+        "workbench.action.tasks.configureTaskRunner"
+    ],
+    "python.defaultInterpreterPath": "C:/Users/rrtha/AppData/Local/Programs/Python/Python313/python.exe",
+    "code-runner.executorMap": {
+        "python": "C:/Users/rrtha/AppData/Local/Programs/Python/Python313/python.exe"
+    }
+}
